@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+*.user
+security_audit.log
+secrets.json
